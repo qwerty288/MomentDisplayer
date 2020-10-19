@@ -12,7 +12,8 @@ import java.awt.event.WindowEvent;
 import java.io.*;
 
 /*
- This program is used to display a random image in a file when a button is clicked. Includes an intro screen, containing a message contained within multiple text panes and a button that allows the user to go to the main screen.
+ This program is used to display a random image in a file when a button is clicked. Includes an intro screen, containing
+ a message contained within multiple text panes and a button that allows the user to go to the main screen.
  */
 public class Main {
     final static File file = new File("moments");
