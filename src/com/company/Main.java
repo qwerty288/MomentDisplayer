@@ -179,11 +179,6 @@ public class Main {
         int imageHeight = momentIcon.getIconHeight();
         int imageWidth = momentIcon.getIconWidth();
 
-//        System.out.println(maxImageHeight);
-//        System.out.println(maxImageWidth);
-//        System.out.println(imageHeight);
-//        System.out.println(imageWidth);
-
         // If the picture is bigger than the space that it has been given in width or height, adjust the image so that
         // it fits in the space while keeping its aspect ratio.
         if (imageHeight > maxImageHeight) {
